@@ -1,0 +1,17 @@
+.message__box {
+    border: 2px white solid;
+    padding: 20px;
+    margin-bottom: 40px;
+    border-radius: 15px;
+}
+
+.message__title {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.message__text {
+    color: yellow;
+    text-align: start;
+}
